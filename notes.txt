@@ -1,0 +1,13 @@
+Form Step
+
+1. Personal
+    - name
+        - add required validation
+        - add minLength
+    - email
+        - format email
+        - required 
+    - address
+2. Plan Selection
+3. Addons
+4. Summary
